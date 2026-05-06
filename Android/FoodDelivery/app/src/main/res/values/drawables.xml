@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="restaurant1">#FF6B6B</drawable>
+    <drawable name="restaurant2">#4ECDC4</drawable>
+    <drawable name="restaurant3">#45B7D1</drawable>
+    <drawable name="restaurant4">#FFA07A</drawable>
+    <drawable name="restaurant5">#98D8C8</drawable>
+    
+    <drawable name="food1">#FFB6C1</drawable>
+    <drawable name="food2">#FFA07A</drawable>
+    <drawable name="food3">#FFD700</drawable>
+    <drawable name="food4">#98FB98</drawable>
+    <drawable name="food5">#DDA0DD</drawable>
+    <drawable name="food6">#87CEEB</drawable>
+    <drawable name="food7">#F0E68C</drawable>
+    <drawable name="food8">#E6E6FA</drawable>
+    <drawable name="food9">#FFA500</drawable>
+    <drawable name="food10">#90EE90</drawable>
+    <drawable name="food11">#FF6347</drawable>
+    <drawable name="food12">#DA70D6</drawable>
+    <drawable name="food13">#00CED1</drawable>
+    <drawable name="food14">#FF1493</drawable>
+    <drawable name="food15">#FFDAB9</drawable>
+    <drawable name="food16">#E0FFFF</drawable>
+    <drawable name="food17">#FFE4B5</drawable>
+    <drawable name="food18">#F5DEB3</drawable>
+    <drawable name="food19">#90EE90</drawable>
+    <drawable name="food20">#DDA0DD</drawable>
+</resources>
